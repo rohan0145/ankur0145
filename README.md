@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%, height: 100px" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center"  />
 </div>  
 
 ### <div align="center">I'm An, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
@@ -19,7 +19,7 @@
 
 ## My Skill Set  
 
-<div align="center">  
+<div align="left">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
@@ -35,7 +35,7 @@
 <br/>  
 
 ## Connect with me  
-<div align="center">
+<div align="left">
 <a href="https://github.com/ankur0145" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
