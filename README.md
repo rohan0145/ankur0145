@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center"  />
 </div>  
 
-### <div align="center">I'm An, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm An, a Backend developer 👨‍</div>  
 
 - 🔭 I’m currently working on Armageddon  
   
