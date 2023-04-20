@@ -1,10 +1,8 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%, height: 50%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%, height: 100px" />
 </div>  
-  
 
 ### <div align="center">I'm An, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
-  
 
 - 🔭 I’m currently working on Armageddon  
   
@@ -17,12 +15,9 @@
 
 - ⚡ Fun fact: I use tabs over spaces  
   
-
 <br/>  
 
-
 ## My Skill Set  
-<table><tr><td valign="top" width="100%">
 
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
@@ -36,10 +31,8 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
 </div>
-></table>  
 
 <br/>  
-
 
 ## Connect with me  
 <div align="center">
