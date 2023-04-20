@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center"  />
 </div>  
 
-### <div align="center">I'm An, a Backend developer 👨‍</div>  
+### <div align="center">I'm a Backend developer 👨‍</div>  
 
 - 🔭 I’m currently working on Armageddon  
   
