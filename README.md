@@ -4,7 +4,7 @@
 
 ### <div align="center">I'm a Backend developer 👨‍</div>  
 
-- 🔭 I’m currently working on Armageddon  
+- 🔭 I’m currently working as Django Developer.
   
 
 - 🌱 I’m currently learning Devops and Kubernetes  
