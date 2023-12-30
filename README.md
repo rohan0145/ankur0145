@@ -4,13 +4,13 @@
 
 ### <div align="center">I'm a Backend developer 👨‍</div>  
 
-- 🔭 I’m currently working as Django Developer.
+- 🔭 I’m currently working as Backend Developer.
   
 
 - 🌱 I’m currently learning Devops and Kubernetes  
   
 
-- ❓ Ask me about Django and Python  
+- ❓ Ask me about Django , Python, javascript , Nodejs and Expressjs   
   
 
 - ⚡ Fun fact: I use tabs over spaces  
